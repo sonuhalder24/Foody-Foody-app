@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Foody Foody</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Languages</string>
+    <string name="action_mode">Mode</string>
+
+    <string name="menu_home">VEG</string>
+    <string name="menu_gallery">NON VEG</string>
+    <string name="menu_slideshow">SWEETS</string>
+    <string name="menu_snacks">SNACKS</string>
+    <string name="menu_softDrinks">SOFT DRINKS</string>
+    <string name="snackbar">Welcome!! Here we trying to present some of the delicious food you may like </string>
+    <string name="action">Action</string>
+    <string name="uploading">Uploading</string>
+    <string name="deleting">Removing</string>
+    <string name="nonveg_clicked">Non Veg Clicked</string>
+    <string name="sweets_clicked">Sweets Clicked</string>
+    <string name="snacks_clicked">Snacks Clicked</string>
+    <string name="softdrinks_clicked">Soft Drinks Clicked</string>
+    <string name="veg_clicked">Veg Clicked</string>
+</resources>

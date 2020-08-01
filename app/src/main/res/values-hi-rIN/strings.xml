@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foody Foody</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="navigation_drawer_open">नेविगेशन दराज खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
+    <string name="nav_header_desc">" नेविगेशन हेडर"</string>
+    <string name="action_settings">" भाषा"</string>
+    <string name="action_mode">मोड</string>
+    <string name="menu_home">" शाकाहारी"</string>
+    <string name="menu_gallery">मासाहारी</string>
+    <string name="menu_slideshow">मीठा</string>
+    <string name="menu_snacks">" स्नैक्स"</string>
+    <string name="menu_softDrinks">शीतल पेय</string>
+    <string name="snackbar">स्वागत हे!! यहाँ हम आपके पसंद के कुछ स्वादिष्ट भोजन पेश करने की कोशिश कर रहे है</string>
+    <string name="action">कार्य</string>
+    <string name="uploading">अपलोड हो रहा है</string>
+    <string name="nonveg_clicked">क्लिक की गई मासाहारी</string>
+    <string name="sweets_clicked">क्लिक की गई मिठाई</string>
+    <string name="snacks_clicked">क्लिक की गई  स्नैक्स</string>
+    <string name="softdrinks_clicked">क्लिक की गई  शीतल पेय</string>
+    <string name="veg_clicked">क्लिक की गई शाकाहारी</string>
+    <string name="deleting">हटाने किया जा रहा है</string>
+</resources>
